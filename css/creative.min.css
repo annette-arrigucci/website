@@ -18,3 +18,10 @@
  color:#eb3812;
  font-size:24px
 }
+a.lighter{
+ transition:all .35s;
+ color:#36454F
+}
+a.lighter:focus,a.lighter:hover{
+ color:#eb3812
+}
